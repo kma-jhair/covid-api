@@ -1,0 +1,41 @@
+{
+  "name": "covid-api",
+  "version": "1.0.0",
+  "description": "Rest-API with info about Covid 19 situation arround the world",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kma-jhair/covid-api.git"
+  },
+  "keywords": [
+    "COVID",
+    "19",
+    "REST-API",
+    "COVID"
+  ],
+  "author": "kennymendieta89@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kma-jhair/covid-api/issues"
+  },
+  "homepage": "https://github.com/kma-jhair/covid-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/plugin-transform-runtime": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/register": "^7.12.10",
+    "@babel/runtime": "^7.12.5",
+    "babel-loader": "^8.2.2",
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
